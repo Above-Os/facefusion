@@ -62,7 +62,7 @@ download_provider_set : DownloadProviderSet =\
 	},
 	'huggingface':
 	{
-		'url': 'https://huggingface.co',
+		'url': 'https://hf-mirror.com',
 		'path': '/facefusion/{base_name}/resolve/main/{file_name}'
 	}
 }
